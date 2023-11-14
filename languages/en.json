@@ -1,0 +1,282 @@
+{
+    "nav_item5_text": {
+        "en": "Blog",
+        "he": "בלוג"
+    },
+    "step1_name_placeholder": {
+        "en": "Doron Israel Shlomo",
+        "he": "הקלד שם"
+    },
+    "step1_target_title": {
+        "en": "Where do you fly to?",
+        "he": "לאן טסים? (לשים אייקון של הר מושלג)"
+    },
+    "step1_dates_title": {
+        "en": "Arrival  and departure times from the area",
+        "he": "זמני הגעה ויציאה מהאזור"
+    },
+    "step1_arrival_date_placeholder": {
+        "en": "Arrival-date",
+        "he": "תאריך הגעה"
+    },
+    "step1_departure_date_placeholder": {
+        "en": "Departure-date",
+        "he": "תאריך חזרה"
+    },
+    "step1_desc_title": {
+        "en": "Hello Surfer",
+        "he": "שלום גולש,"
+    },
+    "step1_desc_text": {
+        "en": "Lorem Ipsum Dolor Sit Emmett, Constorer Edificing Alit Colores Monfred Adendum Silkoff, Emotional and Madagh Interchange and in their hearts Sulgak. Brait and lach zurek is blown, in the elements of Magmas.Shrachmadal who gritted.",
+        "he": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית קולורס מונפרד אדנדום סילקוף, מרגשי ומדגח עמחליף ושבעגט ליבם סולגק. בראיט ולחת צורק מונחף, בגורמי מגמש.שרכמדל שדגרצד."
+    },
+    "step2_desc_title": {
+        "en": "Hello Surfer",
+        "he": "שלום גולש,"
+    },
+    "step2_desc_text": {
+        "en": "Lorem Ipsum Dolor Sit Emmett, Constorer Edificing Alit Colores Monfred Adendum Silkoff, Emotional and Madagh Interchange and in their hearts Sulgak. Brait and lach zurek is blown, in the elements of Magmas.Shrachmadal who gritted.",
+        "he": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית קולורס מונפרד אדנדום סילקוף, מרגשי ומדגח עמחליף ושבעגט ליבם סולגק. בראיט ולחת צורק מונחף, בגורמי מגמש.שרכמדל שדגרצד."
+    },
+    "nav_item4_text": {
+        "en": "Team",
+        "he": "צוות"
+    },
+    "nav_item2_text": {
+        "en": "Features",
+        "he": "תכונות"
+    },
+    "nav_item3_text": {
+        "en": "Pricing",
+        "he": "תמחור"
+    },
+    "nav_item1_text": {
+        "en": "About",
+        "he": "על"
+    },
+    "btn_skip_text": {
+        "en": "Skip step",
+        "he": "דלג שלב"
+    },
+    "btn_save_text": {
+        "en": "Save",
+        "he": "שמר"
+    },
+    "step1_name_title": {
+        "en": "Full Name updated",
+        "he": "שם מלא"
+    },
+    "step1_target_Placeholder": {
+        "en": "target updated",
+        "he": "יעד"
+    },
+    "btn_next_step_text": {
+        "en": "Next step",
+        "he": "שלב הבא"
+    },
+    "step2_arrivals_heading": {
+        "en": "Arrivals",
+        "he": "הגעות"
+    },
+    "step2_date_time_landing_title": {
+        "en": "Date and time of landing",
+        "he": "תאריך ושעת הנחיתה"
+    },
+    "step2_arrival_date_placeholder": {
+        "en": "Arrival-date",
+        "he": "תאריך הגעה"
+    },
+    "step2_airport_flight_number_heading": {
+        "en": "Airport and flight number",
+        "he": "שדה תעופה ומספר טיסה"
+    },
+    "step2_select_city_placeholder": {
+        "en": "Select City",
+        "he": "שדה תעופה"
+    },
+    "step2_flight_number_placeholder": {
+        "en": "Flight number",
+        "he": "מספר טיסה"
+    },
+    "step2_vehicle_type_title": {
+        "en": "Vehicle Type",
+        "he": "סוג רכב"
+    },
+    "step2_number_of_people_title": {
+        "en": "Number of people",
+        "he": "כמות אנשים"
+    },
+    "step2_number_of_people_placeholder": {
+        "en": "Number of Passengers",
+        "he": "מספר נוסעים"
+    },
+    "step2_number_of_child_placeholder": {
+        "en": "Child Seats(Free)",
+        "he": "מושבי ילדים (חינם)"
+    },
+    "step2_leave_message_title": {
+        "en": "Leave a message to the driver",
+        "he": "השאירו הודעה לנהג"
+    },
+    "step2_departures_heading": {
+        "en": "Departures",
+        "he": "יציאות"
+    },
+    "step2_departure_date_placeholder": {
+        "en": "Departure-date",
+        "he": "תאריך יציאה"
+    },
+    "step2_add_arrival_btn": {
+        "en": "Add Arrival",
+        "he": "הוסף הגעה"
+    },
+    "step2_add_departure_btn": {
+        "en": "Add Departure",
+        "he": "הוסף יציאה"
+    },
+    "step3_desc_title": {
+        "en": "Equipment Hire,",
+        "he": "השכרת ציוד,"
+    },
+    "step3_desc_text": {
+        "en": "Lorem Ipsum Dolor Sit Emmett, Constorer Edificing Alit Colores Monfred Adendum Silkoff, Emotional and Madagh Interchange and in their hearts Sulgak. Brait and lach zurek is blown, in the elements of Magmas.Shrachmadal who gritted.",
+        "he": "לורם איפסום דולור סיט אמט, קונסטוטור אדיפיקציה עלית קולורס מונפרד אדנדום סילקוף, מחלף רגשי ומאדה ובלבם סולגאק. ברייט ולך זורק מפוצצים, באלמנטים של מאגמס.שרכמדאל שנחרץ."
+    },
+    "step3_name_placeholder": {
+        "he": "ג'ון דאו",
+        "en": "John Deo"
+    },
+    "step3_equipment_type_title": {
+        "en": "Equipment Type",
+        "he": "סוג ציוד"
+    },
+    "step3_equipment_type_option_1": {
+        "en": "Child",
+        "he": "ילד"
+    },
+    "step3_equipment_type_option_2": {
+        "en": "Adult",
+        "he": "מבוגר"
+    },
+    "step3_equipment_type_option_3": {
+        "en": "Expert",
+        "he": "מומחה"
+    },
+    "step3_hire_date_first_placeholder": {
+        "en": "First date of hire",
+        "he": "תאריך ראשון של העסקה"
+    },
+    "step3_hire_date_last_placeholder": {
+        "en": "Last date of hire",
+        "he": "תאריך אחרון להעסקה"
+    },
+    "step3_select_equipment_placeholder": {
+        "en": "Select equipment",
+        "he": "בחר ציוד"
+    },
+    "step3_helmet_title": {
+        "en": "Add a helmet?",
+        "he": "להוסיף קסדה?"
+    },
+    "step3_helmet_placeholder": {
+        "en": "Helmet?",
+        "he": "קסדה?"
+    },
+    "step3_add_equipment_btn": {
+        "en": "Add equipment",
+        "he": "הוספת ציוד"
+    },
+    "step4_desc_title": {
+        "en": "Lessons",
+        "he": "שיעורים"
+    },
+    "step4_desc_text": {
+        "en": "Lorem Ipsum Dolor Sit Emmett, Constorer Edificing Alit Colores Monfred Adendum Silkoff, Emotional and Madagh Interchange and in their hearts Sulgak. Brait and lach zurek is blown, in the elements of Magmas.Shrachmadal who gritted.",
+        "he": "לורם איפסום דולור סיט אמט, קונסטוטור אדיפיקציה עלית קולורס מונפרד אדנדום סילקוף, מחלף רגשי ומאדה ובלבם סולגאק. ברייט ולך זורק מפוצצים, באלמנטים של מאגמס.שרכמדאל שנחרץ."
+    },
+    "step4_training_type_title": {
+        "en": "Training Type",
+        "he": "סוג האימון"
+    },
+    "step4_number_people_title": {
+        "en": "Number of people",
+        "he": "מספר אנשים"
+    },
+    "step4_browsing_level_title": {
+        "en": "Browsing level",
+        "he": "רמת גלישה"
+    },
+    "step4_browsing_level_placeholder": {
+        "en": "Skill Level",
+        "he": "רמת מיומנות"
+    },
+    "step4_full_name_title": {
+        "en": "Full Name",
+        "he": "שם מלא"
+    },
+    "step4_full_name_placeholder": {
+        "en": "Doron Israel",
+        "he": "דורון ישראל"
+    },
+    "step4_lesson_type_title": {
+        "en": "Lesson Type",
+        "he": "סוג השיעור"
+    },
+    "step4_lesson_type_option_1": {
+        "en": "Ski",
+        "he": "סקי"
+    },
+    "step4_lesson_type_option_2": {
+        "en": "Snowboarding",
+        "he": "סנובורד"
+    },
+    "step4_age_type_option_1": {
+        "en": "Adult",
+        "he": "מבוגר"
+    },
+    "step4_age_type_option_2": {
+        "en": "Child",
+        "he": "ילד"
+    },
+    "step4_add_lesson_btn": {
+        "en": "Add Lesson",
+        "he": "הוסף שיעור"
+    },
+    "city.Lahore": {
+        "en": "Lahore",
+        "he": "לאהור"
+    },
+    "city.Karachi": {
+        "en": "Karachi",
+        "he": "קראצ'י"
+    },
+    "city.Islamabad": {
+        "en": "Islamabad",
+        "he": "איסלמבאד"
+    },
+    "airport.Macon Philip": {
+        "en": "Macon Philip",
+        "he": "מייקון פיליפבאד"
+    },
+    "step2_hotel_title": {
+        "en": "Hotel",
+        "he": "מלון"
+    },
+    "step2_hotel_placeholder": {
+        "en": "Enter Hotel",
+        "he": "הזן מלון"
+    },
+    "btn_back_text": {
+        "en": "Back",
+        "he": "גב"
+    },
+    "step4_training_type_option_1": {
+        "en": "Group",
+        "he": "פרטי"
+    },
+    "step4_training_type_option_2": {
+        "en": "Private",
+        "he": "פרטי"
+    }
+}
